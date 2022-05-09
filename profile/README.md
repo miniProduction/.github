@@ -1,5 +1,8 @@
-## Hi there 👋
-## 测试标题
+## Hi there . this is miniProduction 👋
+
+开发各种mini轮子，现在的主题是游戏开发
+
+
 <!--
 
 **Here are some ideas to get you started:**
